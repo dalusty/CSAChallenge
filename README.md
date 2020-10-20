@@ -37,6 +37,11 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 ## Available Challenges
 
+### Coding
+
+[IoT Simulator](Coding/IoTSimulator/readme.md)
+[Event Hubs Simulator](Coding/EventHubSimulator/readme.md)
+
 ### Containers
 
 ### Data
