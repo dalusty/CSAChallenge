@@ -1,4 +1,4 @@
-# Challenge Name
+# Queue Processor
 
 ## Introduction
 
