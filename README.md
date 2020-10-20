@@ -43,6 +43,8 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 [Weather Data](Data/WeatherData/readme.md)
 
+### DevOps
+
 ### Networking
 
 ### Security
