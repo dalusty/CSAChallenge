@@ -17,4 +17,4 @@ The more intersting the solution the better here, so please be imaginative!
 
 ## Solutions
 
-[Garmin Connect IQ App](solution1/readme.md)
+[Garmin Connect IQ App](Solution1/readme.md)
