@@ -17,3 +17,7 @@ Images say a thousand words and can be included where appropriate. Flow charts m
 ## Instructions
 
 A detailed description of the required outcomes of the challenge. For examples look at existing challenges, or speak to one of the challenge team.
+
+## Solutions
+
+include this section to hold the links to solutions once they are available.

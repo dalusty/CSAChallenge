@@ -45,6 +45,8 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 ### Containers
 
+[Queue Processor](Containers/QueueProcessor/readme.md)
+
 ### Data
 
 [Weather Data](Data/WeatherData/readme.md)
