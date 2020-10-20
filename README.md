@@ -37,6 +37,12 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 ## Available Challenges
 
+### Containers
+
 ### Data
 
-[Weather Data](WeatherData/readme.md)
+[Weather Data](Data/WeatherData/readme.md)
+
+### Networking
+
+### Security
