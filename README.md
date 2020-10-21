@@ -61,4 +61,6 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 ### Networking
 
+[Multi Cloud Network Segments](Networking/MultiCloudSegments/readme.md)
+
 ### Security
