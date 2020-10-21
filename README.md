@@ -51,7 +51,13 @@ Contributions are always welcome. Please note that the structure of the repo may
 
 [Weather Data](Data/WeatherData/readme.md)
 
+[A/B Testing](Data/ABTesting/readme.md)
+
+[Click Tracker](Data/ClickTracker/readme.md)
+
 ### DevOps
+
+[Web Deployment](DevOps/WebDeployment/readme.md)
 
 ### Networking
 
