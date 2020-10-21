@@ -36,31 +36,15 @@ Contributions are always welcome. Please note that the structure of the repo may
        - /code - folder for code etc.
 
 ## Available Challenges
-
 ### Coding
 
-[IoT Simulator](Coding/IoTSimulator/readme.md)
-
-[Event Hubs Simulator](Coding/EventHubSimulator/readme.md)
-
-### Containers
-
-[Queue Processor](Containers/QueueProcessor/readme.md)
-
-### Data
-
-[Weather Data](Data/WeatherData/readme.md)
-
-[A/B Testing](Data/ABTesting/readme.md)
-
-[Click Tracker](Data/ClickTracker/readme.md)
-
-### DevOps
-
-[Web Deployment](DevOps/WebDeployment/readme.md)
-
-### Networking
-
-[Multi Cloud Network Segments](Networking/MultiCloudSegments/readme.md)
-
-### Security
+| Category | Challenge | Difficulty | Time |
+|----------|-----------|------------|------|
+| Coding | [IoT Simulator](Coding/IoTSimulator/readme.md) | ★★☆☆☆ | ★★★☆☆ |
+| Coding | [Event Hubs Simulator](Coding/EventHubSimulator/readme.md) | ★★☆☆☆ | ★★★☆☆ |
+| Containers | [Queue Processor](Containers/QueueProcessor/readme.md) | ★★★★☆ | ★★★★★ |
+| Data | [Weather Data](Data/WeatherData/readme.md) | ★★★☆☆ | ★★☆☆☆ |
+| Data | [A/B Testing](Data/ABTesting/readme.md) | ★★★☆☆ | ★★★☆☆ |
+| Data | [Click Tracker](Data/ClickTracker/readme.md) | ★★★☆☆ | ★★★☆☆ |
+| DevOps | [Web Deployment](DevOps/WebDeployment/readme.md) | ★★☆☆☆ | ★★★★☆ |
+| Networking | [Multi Cloud Network Segments](Networking/MultiCloudSegments/readme.md) | ★★★★★ | ★★★★☆ |
