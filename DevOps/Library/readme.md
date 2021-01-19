@@ -38,7 +38,7 @@ You should then push your package to somewhere your project can use it.
 
 If you're stuck, you may like to try this with Azure DevOps, GitHub, Azure Pipelines, and Azure Artifacts. 
 
-For your language, machine learning specialists may use Python to create an Egg or wheel. Programmers may want to create a Java JAR, or a .net library.
+For your language, machine learning specialists may use Python to create an Egg or wheel. Programmers may want to create a Java JAR, or a .net library. You may also wish to make a PowerShell module for scripting.
 
 ## Outcomes
 
