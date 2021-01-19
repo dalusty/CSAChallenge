@@ -47,4 +47,5 @@ Contributions are always welcome. Please note that the structure of the repo may
 | Data | [A/B Testing](Data/ABTesting/readme.md) | ★★★☆☆ | ★★★☆☆ |
 | Data | [Click Tracker](Data/ClickTracker/readme.md) | ★★★☆☆ | ★★★☆☆ |
 | DevOps | [Web Deployment](DevOps/WebDeployment/readme.md) | ★★☆☆☆ | ★★★★☆ |
+| DevOps | [Code Library](DevOps/Library/readme.md) | ★☆☆☆☆ | ★★★★☆ |
 | Networking | [Multi Cloud Network Segments](Networking/MultiCloudSegments/readme.md) | ★★★★★ | ★★★★☆ |
